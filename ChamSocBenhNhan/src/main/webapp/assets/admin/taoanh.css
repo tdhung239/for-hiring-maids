@@ -1,0 +1,20 @@
+.khung {
+	width: 1240px;
+	height: 650px;
+	margin: 0 auto;
+	z-index: 0;
+	
+}
+.dainhac{
+	width:100%;
+	margin-bottom:200px;
+}
+.khung-trong{
+	
+	height: 180px;
+	margin: 0 auto;
+	z-index: 100;
+}
+.tenCongTy{
+	height: 180px;
+}
